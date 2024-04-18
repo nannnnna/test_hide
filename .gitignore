@@ -13,6 +13,7 @@ pids
 
 # Директория зависимостей
 node_modules
+node_modules/
 
 # Файлы сборки
 dist
